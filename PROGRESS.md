@@ -1,0 +1,104 @@
+# Progress
+
+Check a day only after the experiment (or written artifact) and the mastery questions in that day's workbook are done. Skipping the "break it" step usually means you only memorized vocabulary.
+
+- [ ] Day 001: Architecture Trade-offs
+- [ ] Day 002: OLTP vs OLAP
+- [ ] Day 003: Systems of Record and Derived Data
+- [ ] Day 004: Cloud vs Self-Hosted
+- [ ] Day 005: Distributed vs Single Node
+- [ ] Day 006: Architecture Review
+- [ ] Day 007: Latency and Percentiles
+- [ ] Day 008: Throughput and Capacity
+- [ ] Day 009: Reliability and Faults
+- [ ] Day 010: Hardware, Software, Human Faults
+- [ ] Day 011: Scalability
+- [ ] Day 012: Load and Capacity Modeling
+- [ ] Day 013: Maintainability and Operability
+- [ ] Day 014: SLOs
+- [ ] Day 015: Complexity Budget
+- [ ] Day 016: Evolvability
+- [ ] Day 017: Relational Modeling
+- [ ] Day 018: Document Modeling
+- [ ] Day 019: Normalization vs Denormalization
+- [ ] Day 020: Joins
+- [ ] Day 021: Analytical Schemas
+- [ ] Day 022: Graph Modeling
+- [ ] Day 023: Query Language Trade-offs
+- [ ] Day 024: Model Selection
+- [ ] Day 025: Storage Engine Basics
+- [ ] Day 026: Log-Structured Storage
+- [ ] Day 027: SSTables
+- [ ] Day 028: Compaction
+- [ ] Day 029: B-Trees
+- [ ] Day 030: B-Tree vs LSM
+- [ ] Day 031: Secondary Indexes
+- [ ] Day 032: Multicolumn and Covering Indexes
+- [ ] Day 033: Column-Oriented Storage
+- [ ] Day 034: Query Execution
+- [ ] Day 035: Encoding Fundamentals
+- [ ] Day 036: Schema Evolution
+- [ ] Day 037: Protocol Buffers
+- [ ] Day 038: Avro
+- [ ] Day 039: Dataflow Compatibility
+- [ ] Day 040: API and Event Evolution
+- [ ] Day 041: Leader-Follower Replication
+- [ ] Day 042: Synchronous vs Asynchronous Replication
+- [ ] Day 043: Follower Bootstrap
+- [ ] Day 044: Replication Lag
+- [ ] Day 045: Read-Your-Writes
+- [ ] Day 046: Monotonic Reads
+- [ ] Day 047: Multi-Leader Replication
+- [ ] Day 048: Conflict Resolution
+- [ ] Day 049: Leaderless Replication
+- [ ] Day 050: Replication Design Review
+- [ ] Day 051: Why Shard
+- [ ] Day 052: Hash Partitioning
+- [ ] Day 053: Range Partitioning
+- [ ] Day 054: Hot Partitions
+- [ ] Day 055: Rebalancing
+- [ ] Day 056: Request Routing
+- [ ] Day 057: Secondary Indexes on Shards
+- [ ] Day 058: Transaction Boundaries
+- [ ] Day 059: ACID
+- [ ] Day 060: Read Committed
+- [ ] Day 061: Snapshot Isolation
+- [ ] Day 062: Lost Updates
+- [ ] Day 063: Write Skew
+- [ ] Day 064: Phantoms
+- [ ] Day 065: Serializability
+- [ ] Day 066: Two-Phase Locking
+- [ ] Day 067: Two-Phase Commit
+- [ ] Day 068: Partial Failure
+- [ ] Day 069: Unreliable Networks
+- [ ] Day 070: Timeouts
+- [ ] Day 071: Synchronous vs Asynchronous Models
+- [ ] Day 072: Monotonic and Wall Clocks
+- [ ] Day 073: Clock Synchronization
+- [ ] Day 074: Process Pauses
+- [ ] Day 075: Leases and Locks
+- [ ] Day 076: System Models
+- [ ] Day 077: Linearizability
+- [ ] Day 078: Cost of Linearizability
+- [ ] Day 079: Logical Clocks
+- [ ] Day 080: Ordering
+- [ ] Day 081: Linearizable IDs
+- [ ] Day 082: Consensus
+- [ ] Day 083: Consensus in Practice
+- [ ] Day 084: Batch Processing
+- [ ] Day 085: Sorting and Aggregation
+- [ ] Day 086: MapReduce
+- [ ] Day 087: Joins and Grouping
+- [ ] Day 088: Derived Data
+- [ ] Day 089: Event Streams
+- [ ] Day 090: Consumer Groups
+- [ ] Day 091: CDC
+- [ ] Day 092: Stream Joins and Time
+- [ ] Day 093: Fault Tolerance in Streams
+- [ ] Day 094: Data Integration
+- [ ] Day 095: Batch + Stream
+- [ ] Day 096: Unbundled Data Systems
+- [ ] Day 097: Data and Feedback Loops
+- [ ] Day 098: Privacy and Responsibility
+- [ ] Day 099: Capstone Architecture
+- [ ] Day 100: Capstone Defense

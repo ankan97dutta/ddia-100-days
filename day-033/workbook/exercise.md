@@ -1,0 +1,71 @@
+# Day 033 workbook: Column-Oriented Storage
+
+Turn rows into columns and measure analytical scans.
+
+## Run
+
+```bash
+cd starter
+python3 main.py
+```
+
+Paste interesting output below.
+
+## Notes
+
+**What I actually did**
+
+> 
+
+**Try this**
+
+Store the same table as row CSV and as per-column files. Aggregate one column vs touch all columns.
+
+**What I changed**
+
+- Variable / failure:
+- Before -> after:
+
+**Break it**
+
+Select `*` style access on columnar layout. When does it lose?
+
+- Expected:
+- Observed:
+- Why they differ:
+
+**Numbers**
+
+Bytes read and time for aggregate vs wide select.
+
+| Metric | Baseline | After change | What it means |
+| --- | ---: | ---: | --- |
+| | | | |
+
+**Explanation**
+
+> 
+
+**Design call**
+
+- Option A:
+- Option B:
+- I would ship: ___ because ___
+- Evidence that would change my mind:
+
+## Artifacts
+
+```text
+results/
+├── measurements.txt
+├── notes.md
+└── ...
+```
+
+## Quick check
+
+- [ ] Explained it without the book open
+- [ ] Reproduced the important behavior
+- [ ] Broke it on purpose
+- [ ] Have at least one number or clear qualitative result
+- [ ] Made a choice between alternatives

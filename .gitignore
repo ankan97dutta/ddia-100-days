@@ -1,0 +1,40 @@
+# Experiment output
+**/results/
+**/workbook/results/
+**/workbook/starter/data/
+**/workbook/starter/*.db
+**/workbook/starter/*.sqlite
+/data/
+
+# Env / secrets
+.env
+.env.*
+*.pem
+credentials.json
+
+# Language / tooling noise
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+build/
+*.egg-info/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Never commit a real copy of the book
+*.pdf
+
+# Generated GitHub Pages / MkDocs output
+docs/
+site/
+mkdocs.yml
+scripts/nav.generated.yml
+.cache/
+
+# Others
+strip_tells.py
